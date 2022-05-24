@@ -93,3 +93,4 @@ louis gathers information from the kernel through eBPF (with BCC). These sources
 - https://github.com/iovisor/gobpf
 - https://github.com/iovisor/bcc
 - http://www.brendangregg.com/Perf/bcc_tracing_tools.png
+## fix some bugs and compile app by ewind and johto
